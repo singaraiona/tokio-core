@@ -12,7 +12,6 @@ the rest of the tokio crates.
 """
 
 [dependencies]
-futures = "0.1"
 log = "0.3"
 mio = "0.6"
 scoped-tls = "0.1.0"
