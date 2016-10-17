@@ -12,7 +12,7 @@ the rest of the tokio crates.
 """
 
 [dependencies]
-futures = { git = "https://github.com/singaraiona/futures-rs", version = "0.1.4444" }
+futures = { git = "https://github.com/singaraiona/futures-rs", version = "0.1.4" }
 log = "0.3"
 mio = "0.6"
 scoped-tls = "0.1.0"
